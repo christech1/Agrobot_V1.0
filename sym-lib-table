@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BUCK_converterMODlm24")(type "KiCad")(uri "${KIPRJMOD}/BUCK_converterMOD/BUCK_converterMODlm24.kicad_sym")(options "")(descr ""))
+  (lib (name "jetson_nano")(type "KiCad")(uri "${KIPRJMOD}/libraries/jetson_nano.kicad_sym")(options "")(descr ""))
+)
